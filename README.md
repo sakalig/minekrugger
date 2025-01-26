@@ -1,2 +1,2 @@
 # minekrugger
-Minecraft+krugger => Minekrugger 
+Code made with DeepSeek R1
